@@ -1,0 +1,162 @@
+body{
+  font-family: 'Baloo Tamma 2', cursive;
+
+}
+#title{
+  background-color:#ff4c68;
+  color: #fff;
+}
+.continer-fluid{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.row{
+  padding-top: 40px;
+  margin-bottom: 3%;
+}
+
+.header-h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+.continer-fluid{
+  padding: 3% 15% 10%;
+}
+
+.continer-fluid .navbar .navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0px 18px ;
+}
+.nav-link{
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 1.2rem;
+}
+.continer-fluid .navbar{
+  padding: 0 0 .80rem;
+}
+/* Download-btn */
+.Download-btn{
+  margin: 5% 3% 2% 1%;
+}
+.header-img{
+  width: 46%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 30%;
+
+}
+.ficon{
+  color: #ff4c68;
+font-size: 80px;
+margin-bottom: 1rem;
+}
+.bo{
+
+  text-align: center;
+
+
+}
+
+.ficon:hover{
+  color: #c70039;
+}
+.fh3{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: ;
+}
+
+#features{
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  background-color: white;
+}
+.fp{
+  color: #434e52;
+}
+#testimonials{
+
+  text-align: center;
+  background-color:#ff4c68;
+  color: white;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-text{
+  font-family:  sans-serif;
+  line-height: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius:100%;
+  margin:20px;
+}
+.clogo{
+width: 15%;
+margin: 20px 20px 50px;
+
+}
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.ph2,.pp{
+  text-align: center;
+
+}
+.pp{
+  margin-bottom: 5%;
+}
+@media (max-width: 1000px){
+#title{
+  text-align: center;
+}
+  .header-img{
+    position: static;
+    transform: rotate(0);
+  }
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+  line-height: 2rem;
+}
+.ctabtn{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.cth3{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+#footer{
+  text-align: center;
+  padding: 5% 10%;
+}
+.footer-icon{
+  margin: 20px 10px;
+  text-align: center;
+  font-size: 2rem;
+  color: #ff4c68;
+}
+.prc{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
